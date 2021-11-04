@@ -1,5 +1,5 @@
 # rdf
-## read a file
+## Read a file
 
 ### Usage
 `rdf <filename>`

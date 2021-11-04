@@ -2,7 +2,7 @@ use std::{env, fs};
 
 fn main() {
     if env::args().len() <= 1 {
-        eprintln!("rdf - read a file");
+        eprintln!("rdf - Read a file");
         eprintln!("usage: rdf <filename>");
         return;
     }

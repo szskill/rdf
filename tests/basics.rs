@@ -1,4 +1,4 @@
-const NO_ARGS_OUTPUT: &str = "rdf - read a file
+const NO_ARGS_OUTPUT: &str = "rdf - Read a file
 usage: rdf <filename>
 ";
 

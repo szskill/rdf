@@ -1,4 +1,4 @@
-mod basics {
+mod newlines {
     use std::process::Command;
 
     #[test]
